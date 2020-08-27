@@ -16,3 +16,5 @@ goth to the first approver
             On hold
             
 After the document approved by all the approvers, notify the initiator, convert the doc to .pdf and move it to archive site archive document library. 
+
+Approvers are 10, each department managers. 

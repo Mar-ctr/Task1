@@ -1,0 +1,17 @@
+
+
+Contract Approval Workflow Project 
+
+WF trigers when a file is created in a folder 
+goth to the first approver 
+
+      If approved wf goth to the second approver 
+      If rejected wf terminated and send email for the wf initiator 
+      If approver request edit wf goth back to the initiator 
+      
+          Outcome 
+            Approved 
+            Rejected 
+            Request Edit 
+            
+After the document approved by all the approvers, notify the initiator, convert the doc to .pdf and move it to archive site archive document library. 

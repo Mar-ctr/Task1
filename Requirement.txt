@@ -13,5 +13,6 @@ goth to the first approver
             Approved 
             Rejected 
             Request Edit 
+            On hold
             
 After the document approved by all the approvers, notify the initiator, convert the doc to .pdf and move it to archive site archive document library. 
